@@ -14,7 +14,7 @@
 |---|---|---|
 | MiniPen | เครื่องมือหรือแอปพลิเคชันตัวอย่างสำหรับใช้งานบนเว็บ | [ทดลองใช้งาน](https://uhuboy.github.io/MiniPen) |
 | SaccoPy | โปรเจกต์ SaccoPy | [ดูซอร์สโค้ด](https://github.com/uhuboy/SaccoPy) |
-| Tagban | โปรเจกต์ Tagban | [ดูซอร์สโค้ด](https://github.com/uhuboy/Tagban) |
+| Tagban | โปรเจกต์ Tagban | [ทดลองใช้งาน](https://uhuboy.github.io/Tagban) |
 | Point Master App | แอปพลิเคชันจัดการคะแนน | [ดูซอร์สโค้ด](https://github.com/uhuboy/point-master-app) |
 | Thailand Credit Card Installment Calculator | เครื่องคำนวณยอดผ่อนชำระบัตรเครดิต | [ดูซอร์สโค้ด](https://github.com/uhuboy/thailand-credit-card-installment-calculator) |
 | MQTT | โปรเจกต์ที่เกี่ยวข้องกับ MQTT | [ดูซอร์สโค้ด](https://github.com/uhuboy/mqtt) |
