@@ -25,7 +25,7 @@
 เมื่อเปิดใช้ GitHub Pages สำหรับ Repository นี้แล้ว สามารถเข้าชมหน้าเว็บไซต์ได้ที่
 
 ```text
-https://<github-username>.github.io/th-ai-passport-project-showcase/
+https://uhuboy.github.io/th-ai-passport-project-showcase/
 ```
 
 ## การนำไปใช้งาน
